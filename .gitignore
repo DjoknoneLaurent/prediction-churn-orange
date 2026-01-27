@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Environnements
+.env
+.venv
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Données SENSIBLES
+donnees/brutes/*
+donnees/intermediaires/*
+donnees/traitees/*
+donnees/externes/*
+!donnees/*/.gitkeep
+
+# Modèles
+modeles/production/*
+modeles/test/*
+modeles/archive/*
+!modeles/*/.gitkeep
+
+# Logs
+*.log
+logs/*
+!logs/.gitkeep
+
+# Système
+.DS_Store
+Thumbs.db
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Rapports temporaires
+rapports/graphiques/*.png
+rapports/graphiques/*.jpg
+!rapports/graphiques/.gitkeep
