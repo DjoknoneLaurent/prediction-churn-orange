@@ -204,9 +204,9 @@ jupyter lab
 Master 2 Data Science - Modélisation Statistique  
 ISSEA Yaoundé
 
-📧 [ton.email@exemple.com]  
-💼 [LinkedIn](https://linkedin.com/in/ton-profil)  
-🐙 [GitHub](https://github.com/ton-username)
+📧 [djoknonelaurent@gmail.com]  
+💼 [LinkedIn](linkedin.com/in/laurent-djoknoné-9a124325a)  
+🐙 [GitHub](https://github.com/DjoknoneLaurent))
 
 ---
 
